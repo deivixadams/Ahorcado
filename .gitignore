@@ -1,1 +1,4 @@
 venv/
+.vscode/
+game.py
+testing.py
